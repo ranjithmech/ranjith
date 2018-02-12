@@ -2,9 +2,9 @@
 #include<conio.h>
 int main()
 {
-int a;
+int b;
 printf("enter the hello word");
-scanf("%d",&a);
+scanf("%d",&b);
 getch();
 return 0;
 }
