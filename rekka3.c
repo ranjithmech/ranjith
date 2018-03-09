@@ -3,6 +3,7 @@
 void main()
 {
 int a[10],i,n;
+  clrscr();
 printf("enter the limimt");
 scanf("%d",&n);
 printf("enter the element");
@@ -16,4 +17,5 @@ for(i=0;i<n;i++)
 printf("%d\t%d\n",i,a[i]);
 }
 getch();
+return 0;
 }
